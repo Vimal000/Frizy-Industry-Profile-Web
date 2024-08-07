@@ -1,6 +1,6 @@
 Here is the link to the website,
 
-Frizy-Company-Profile
+Frizy-Company-Profile - Link Below!!!
 https://frizy-industry-profile.vercel.app/
 
 This project is built upon HTML , CSS & JS.
